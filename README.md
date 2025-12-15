@@ -23,7 +23,9 @@ This project analyzes hospital patient records (2021–2024) to identify trends 
 - KPI cards (Total Patients, Avg LOS, Total Billing)  
 - Medical condition and age-group insights  
 - Interactive filters for better exploration
-- Dashboard View Dashboard.png
 
 ## Outcome  
 Demonstrates **SQL querying, healthcare data analysis, and dashboarding skills** using real-world hospital data.
+
+## Dashboard Preview
+- ![Dashboard Preview](dashboard_preview.png)
