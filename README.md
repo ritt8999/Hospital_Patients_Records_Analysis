@@ -28,4 +28,4 @@ This project analyzes hospital patient records (2021–2024) to identify trends 
 Demonstrates **SQL querying, healthcare data analysis, and dashboarding skills** using real-world hospital data.
 
 ## Dashboard Preview
-- ![Dashboard Preview](dashboard_preview.png)
+- ![Dashboard Preview](Dashboard.png)
