@@ -1,9 +1,9 @@
-##Hospital Patient Records Analysis
+## Hospital Patient Records Analysis
 
-###Overview  
+## #Overview  
 This project analyzes hospital patient records (2021–2024) to identify trends in patient demographics, medical conditions, length of stay, and hospital billing.
 
-###Dataset  
+## #Dataset  
 - Hospital Patient Records (2021–2024)  
 - 10,000+ patient records  
 - Fields include age, gender, medical condition, admission & discharge dates, and bill amount.
